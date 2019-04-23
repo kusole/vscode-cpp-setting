@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Inc/car.hpp
+iostream
+-
+string
+-
+
+D:/CodeFuck/C_code/test-cmake/Src/car.cpp
+car.hpp
+D:/CodeFuck/C_code/test-cmake/Src/car.hpp
+
+D:/CodeFuck/C_code/test-cmake/Src/main.cpp
+iostream
+-
+string
+-
+car.hpp
+D:/CodeFuck/C_code/test-cmake/Src/car.hpp
+

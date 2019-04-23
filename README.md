@@ -1,0 +1,1 @@
+win10 + mingw-w64 + cmake 编译例程

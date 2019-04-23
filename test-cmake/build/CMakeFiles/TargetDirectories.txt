@@ -1,0 +1,3 @@
+D:/CodeFuck/C_code/test-cmake/build/CMakeFiles/test-cmake.dir
+D:/CodeFuck/C_code/test-cmake/build/CMakeFiles/edit_cache.dir
+D:/CodeFuck/C_code/test-cmake/build/CMakeFiles/rebuild_cache.dir
